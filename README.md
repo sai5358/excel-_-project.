@@ -1,25 +1,25 @@
-# VRINDA STORE DATA ANALYSIS 
+# Vrinda Store Data Analysis 
 
-## TABLE OF CONTENTS
-- INTRODUCTION
-- TOOLS
-- INSIGHTS
-- CONCLUSION
+## Table Of Contents
+- Introduction
+- Tools
+- Insights
+- Conclusion
 
-## INTRODUCTION
+## Introduction
 
- THIS IS AN END TO END PROJECT OF VRINDA STORE DATA ANALYSIS USING ADVANCE EXCEL.
+ This Is An End To End Project Of Vrinda Store Data Analysis Using Advance Excel.
 
 
-### TOOLS
-- EXCEL (DATA CLEANING,DATA PROCESSING,DATA ANALYSIS)
+### Tools
+- Excel (Data Cleaning,Data Processing,Data Analysis)
 
   
-### INSIGHTS
-- WOMEN ARE MORE LIKELY TO BUY COMPARES TO MEN (-35%)
-- ADULT AGE GROUP (30-49) IS MAX CONTRIBUTING (-50%)
-- AMAZON,FLIPKART AND MYNTHRA CHANNELS ARE MAX CONTRIBUTING (-80%)
+### Insights
+- Women Are More Likely To Buy Compares To Men (-35%)
+- Adult Age Group (30-49) Is Max Contributing (-50%)
+- Amazon,Flipkart And Mynthra Channels Are Max Contributing (-80%)
  
 
-### CONCLUSION TO IMPROVE VRINDA STORE SALES:
-TARGET WOMEN CUSTOMERS AGE OF (30-49) YEARS LIVED IN MAHARAHSTRA,KARNATAKA AND UTTAR PRADESH
+### Conclusion To Improve Vrinda Store Sales:
+Target Women Customers Age Of (30-49) Years Lived In Maharahstra,Karnataka And Uttar Pradesh
